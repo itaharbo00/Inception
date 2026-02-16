@@ -1,0 +1,13 @@
+# Local secrets / environment
+srcs/.env
+secrets/
+
+# Optional: host bind-mount data directories (should not be inside the repo)
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Logs
+*.log
